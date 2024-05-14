@@ -1,12 +1,12 @@
 <template>
-    <h1>Login</h1>
+    <h1>Route Error  PageNotFound</h1>
     
    
    </template>
    
    <script>
    export default{
-       name:'LoginPage'
+       name:'PageNotFound'
    }
    
    </script>

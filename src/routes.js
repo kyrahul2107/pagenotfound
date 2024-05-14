@@ -31,6 +31,7 @@ const routes = [
     },
     {
         name:'NotFound',
+        // for page not found by adding wrong route
         path:'/:pathMatch(.*)*',
         component:PageNotFound
     }
